@@ -1,0 +1,92 @@
+body{box-sizing: ;
+    padding: 0px 20px;
+    overflow: scroll;
+
+}
+
+header{
+    background: red;
+}
+
+.title{color: white;
+    font-size: 400%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+
+a.login{text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.date{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.button1{
+    border-radius: 25px;
+  font-weight: bolder;
+}
+
+.nava{
+    border-right: 1px ridge black
+    ;
+}
+
+li.nav-item{font-weight: bolder;
+    font-size: large;
+}
+
+li.nav-item :hover{
+    background-color: rgb(255, 191, 0);
+}
+section.dropdown{display: flex;
+    top: 0px;
+    position: sticky;
+    background-color: red;
+    width: 100%;
+    height: 50px;
+
+}
+div.widget{position:absolute;
+z-index:2;
+background-color: white;
+display: flex;
+width: 98%;
+height: 60px;}
+
+.widget > div {
+   
+    padding-right: 10px;
+}
+.align{
+}
+.btn{
+    width: 60px;
+    height: px;
+    margin-right: 20px;
+}
+.btn-subscribe{
+    border-radius: 25px;
+    font-weight: bolder;
+    margin-right: 5px;
+}
+.news{
+    margin-top: 20px;
+    font-weight: bolder;
+    color: white;
+    padding-left: 1rem;
+    font-size: larger;
+}
+.photo{
+    margin-top: 1
+    0px;
+}
+article{
+    margin-top: 50px;
+}
+
+
